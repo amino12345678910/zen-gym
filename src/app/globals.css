@@ -1,15 +1,15 @@
 @import "tailwindcss";
 
 @theme inline {
-  --color-background: #FAF7F2;
-  --color-foreground: #2A2A28;
+  --color-background: #FFFFFF;
+  --color-foreground: #102A43;
   
-  /* Zen Gym Palette */
-  --color-zen-sand: #EDE6DC;
-  --color-zen-offwhite: #FAF7F2;
-  --color-zen-stone: #D8CFC2;
-  --color-zen-charcoal: #2A2A28;
-  --color-zen-sage: #7A8B6F;
+  /* Zen Gym Palette - Elegant Blue Theme */
+  --color-zen-sand: #F0F4F8;
+  --color-zen-offwhite: #FFFFFF;
+  --color-zen-stone: #D9E2EC;
+  --color-zen-charcoal: #102A43;
+  --color-zen-sage: #5C83A2;
 
   --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
   --font-serif: var(--font-fraunces), ui-serif, Georgia, serif;
@@ -18,8 +18,8 @@
 }
 
 :root {
-  --background: #FAF7F2;
-  --foreground: #2A2A28;
+  --background: #FFFFFF;
+  --foreground: #102A43;
 }
 
 body {
